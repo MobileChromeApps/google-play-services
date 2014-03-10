@@ -6,7 +6,7 @@
 -->
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
     id="com.google.playservices"
-    version="9.0.0">
+    version="15.0.0">
   <engines>
     <engine name="cordova" version=">=3.0.0" />
   </engines>
@@ -14,6 +14,6 @@
   <name>Google Play Services for Android</name>
 
   <platform name="android">
-    <source-file src="lib/libs/google-play-services.jar" target-dir="libs" />
+    <source-file src="google-play-services.jar" target-dir="libs" />
   </platform>
 </plugin>
