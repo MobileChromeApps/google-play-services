@@ -1,4 +1,4 @@
-THIS PLUGIN IS DEPRECTATED!!!
+THIS PLUGIN IS DEPRECATED!!!
 Plugins should use framework tags instead.
 
 E.g.:
