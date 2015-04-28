@@ -5,4 +5,4 @@ E.g.:
     &lt;framework src="com.google.android.gms:play-services-plus:+" /&gt;
     &lt;framework src="com.google.android.gms:play-services-identity:+" />&gt;
 
-Full list avaiable: http://developer.android.com/google/play-services/setup.html
+Full list available: http://developer.android.com/google/play-services/setup.html
