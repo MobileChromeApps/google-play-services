@@ -12,7 +12,7 @@
   </engines>
 
   <name>Google Play Services for Android</name>
-  <info>PLUGIN IS DEPRECTATED: com.google.playservices
+  <info>PLUGIN IS DEPRECATED: com.google.playservices
 
 Plugins should use framework tags instead.
 
@@ -20,7 +20,7 @@ E.g.:
     &lt;framework src="com.google.android.gms:play-services-plus:+" /&gt;
     &lt;framework src="com.google.android.gms:play-services-identity:+" />&gt;
 
-Full list avaiable: http://developer.android.com/google/play-services/setup.html
+Full list available: http://developer.android.com/google/play-services/setup.html
   </info>
 
   <platform name="android">
